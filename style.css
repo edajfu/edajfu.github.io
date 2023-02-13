@@ -5,7 +5,7 @@ body {
 }
 
 h2{
-  margin-left:5px;
+  margin-left:10px;
   font-size: 15px;
 }
 
@@ -101,5 +101,10 @@ button:hover {
 #gallery {
  float:left;
   padding: 5px;
+  
+}
+
+#photos {
+  position: absolute; top: 30%; left: 33%; transform: translate(-25%, 45%);
   
 }
