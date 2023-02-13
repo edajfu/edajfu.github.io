@@ -4,6 +4,10 @@ body {
 
 }
 
+h2{
+  margin-left:5px;
+  font-size: 15px;
+}
 
 p {
   font-size: 18px;
@@ -92,4 +96,10 @@ button:hover {
 #hearttwo {
   max-width: 30px;
   max-height: 30px;
+}
+
+#gallery {
+ float:left;
+  padding: 5px;
+  
 }
